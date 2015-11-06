@@ -1,0 +1,7 @@
+languages:
+  Ruby: true
+  JavaScript: true
+  PHP: true
+  Python: true
+exclude_paths:
+- "modules/stanford_person_views/stanford_person_views.views_default.inc"
